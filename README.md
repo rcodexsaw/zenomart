@@ -37,6 +37,6 @@ cd zenomart
 ---
 ## 👨‍💻 Author
 
-**Rohit Kumar**
+**Rohit Saw**
 - GitHub: [@rcodexsaw](https://github.com/rcodexsaw)
 - LinkedIn: https://linkedin.com/in/rcodexsaw
