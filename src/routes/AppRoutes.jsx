@@ -10,7 +10,7 @@ import Home from '../pages/Home';
 import Shop from '../pages/Shop';
 import About from '../pages/About';
 import ProductDetails from '../pages/ProductDetails';
-import AuthPage from '../pages/AuthPage'; // 👈 Auth/Login Page Import
+import AuthPage from '../pages/AuthPage'; 
 
 // Route Guards
 import ProtectedRoutes from './ProtectedRoutes';

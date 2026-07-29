@@ -37,7 +37,7 @@ export default function RegisterForm({ onSubmit, onSwitchToLogin }) {
               name="fullName"
               value={formData.fullName}
               onChange={handleChange}
-              placeholder="Rohit Sharma"
+              placeholder="name"
               className="w-full pl-11 pr-4 py-3 bg-[#161822] border border-white/10 rounded-xl text-sm focus:outline-none focus:border-[#ff5722] text-slate-200 placeholder:text-slate-600 transition-colors"
             />
           </div>
@@ -71,7 +71,7 @@ export default function RegisterForm({ onSubmit, onSwitchToLogin }) {
               name="password"
               value={formData.password}
               onChange={handleChange}
-              placeholder="••••••••"
+              placeholder="password"
               className="w-full pl-11 pr-11 py-3 bg-[#161822] border border-white/10 rounded-xl text-sm focus:outline-none focus:border-[#ff5722] text-slate-200 placeholder:text-slate-600 transition-colors"
             />
             <button
@@ -94,7 +94,7 @@ export default function RegisterForm({ onSubmit, onSwitchToLogin }) {
               name="confirmPassword"
               value={formData.confirmPassword}
               onChange={handleChange}
-              placeholder="••••••••"
+              placeholder="password"
               className="w-full pl-11 pr-4 py-3 bg-[#161822] border border-white/10 rounded-xl text-sm focus:outline-none focus:border-[#ff5722] text-slate-200 placeholder:text-slate-600 transition-colors"
             />
           </div>
